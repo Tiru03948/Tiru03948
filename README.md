@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Tiru03948
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Power BI
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ I’m looking for Data Analyst role
+- 📫 How to reach me through email bethathirupathinaidu@gmail.com
+- 😄 Pronouns: tiru
+- 
 
 <!---
 Tiru03948/Tiru03948 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
