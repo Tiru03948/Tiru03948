@@ -2,8 +2,8 @@
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Power BI
 - 💞️ I’m looking for Data Analyst role
-- 📫 How to reach me through email bethathirupathinaidu@gmail.com
-- 😄 Pronouns: tiru
+- 📫  reach me through email bethathirupathinaidu@gmail.com
+- 😄 Pronouns: He
 - 
 
 <!---
